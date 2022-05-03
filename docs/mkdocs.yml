@@ -19,7 +19,7 @@ nav:
 
     - Tutorial Notebooks:
 
-        - Bert Inner Workings: tutorial_notebooks/test.md
+        - Test: tutorial_notebooks/test.md
 
     - Resume: resume/resume.md
 
