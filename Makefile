@@ -28,7 +28,7 @@ servedocs: ## Rebuild docs automatically and push to github.
 	rm -rf docs/site
 	git add --all
 	git commit -m "Updates to Website"
-	git push origin master
+	git push origin main
 	@echo "Website updated! Check it out: https://tsilva.github.io "
 
 .PHONY: setup_marp
