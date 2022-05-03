@@ -19,15 +19,7 @@ nav:
 
     - Tutorial Notebooks:
 
-        - Bert Inner Workings: tutorial_notebooks/bert_inner_workings.md
-
-        - PyTorchText BucketIterator: tutorial_notebooks/pytorchtext_bucketiterator.md
-
-        - Pretrain Transformers: tutorial_notebooks/pretrain_transformers_pytorch.md
-
-        - Finetune Transformers: tutorial_notebooks/finetune_transformers_pytorch.md
-
-        - GPT2 Finetune Classification: tutorial_notebooks/gpt2_finetune_classification.md
+        - Bert Inner Workings: tutorial_notebooks/test.md
 
     - Resume: resume/resume.md
 

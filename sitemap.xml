@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/tsilva/tsilva.github.io/tutorial_notebooks/test/</loc>
+         <lastmod>2022-05-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/tsilva/tsilva.github.io/tutorial_notebooks/tutorial_template_page/</loc>
          <lastmod>2022-05-03</lastmod>
          <changefreq>daily</changefreq>
