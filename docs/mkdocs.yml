@@ -6,7 +6,7 @@ repo_url: https://github.com/tsilva96/machine_learning_things
 edit_uri: tree/master/docs/src/markdown
 site_description: Thiago's Website along with a Collection of Useful Snippets for Python Machine Learning
 copyright: |
-  Copyright &copy; 2015 - 2022 <a href="https://github.com/tsilva"  target="_blank" rel="noopener">Thiago Silva</a>
+  Copyright &copy; 2015 - 2022 <a href="https://github.com/tsilva96"  target="_blank" rel="noopener">Thiago Silva</a>
 
 docs_dir: markdown
 
@@ -121,14 +121,14 @@ extra:
     manifest: manifest.webmanifest
     social:
     - icon: fontawesome/brands/github
-      link: https://github.com/tsilva
+      link: https://github.com/tsilva96
       name: tsilva
     - icon: fontawesome/brands/medium
       link: https://tsilva.medium.com/
       name: tsilva
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/silvaThiago
-      name: silvaThiago
+      link: https://www.linkedin.com/in/tasilva
+      name: tasilva
 
 plugins:
     - search
