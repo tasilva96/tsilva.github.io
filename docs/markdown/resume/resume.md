@@ -1,4 +1,4 @@
-# **:newspaper: Resume [ `pdf` ](George_Mihaila_Resume.pdf)**
+# **:newspaper: Resume [ `pdf` ](Thiago_silva_Resume.pdf)**
 
 
 
@@ -23,7 +23,7 @@
 
 **In my free time:**
 
-* I like to share my knowledge on NLP: I write tutorials from scratch on state-of-the-art language models like Bert and GPT2 with over 10k views. Check them out [here](https://gmihaila.medium.com).
+* I like to share my knowledge on NLP: I write tutorials from scratch on state-of-the-art language models like Bert and GPT2 with over 10k views. Check them out [here](https://tsilva.medium.com).
 * Contribute to open-source software on GitHub – Hugging Face Transformer and Dataset library.
 * Technical reviewer for one of the first books published on transformers models for NLP. The book is called Transformers for NLP in Python, by Denis Rothman.
 * Most recently I was invited to be a technical reviewer for the next edition of the Transforms for NLP book.

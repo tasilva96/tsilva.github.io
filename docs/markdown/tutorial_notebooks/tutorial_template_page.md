@@ -2,8 +2,8 @@
 
 ## **:construction: Work in progress :construction_worker:**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gmihaila/ml_things/blob/master/notebooks/pytorch/finetune_transformers_pytorch.ipynb) &nbsp;
-[![Generic badge](https://img.shields.io/badge/GitHub-Source-greensvg)](https://github.com/gmihaila/ml_things/blob/master/notebooks/pytorch/finetune_transformers_pytorch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsilva/ml_things/blob/master/notebooks/pytorch/finetune_transformers_pytorch.ipynb) &nbsp;
+[![Generic badge](https://img.shields.io/badge/GitHub-Source-greensvg)](https://github.com/tsilva/ml_things/blob/master/notebooks/pytorch/finetune_transformers_pytorch.ipynb)
 [![Generic badge](https://img.shields.io/badge/Download-Notebook-red.svg)](https://www.dropbox.com/s/h13v19ns3oig2rl/finetune_transformers_pytorch.ipynb?dl=1)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -72,14 +72,14 @@ Download the *Large Movie Review Dataset* and unzip it locally.
 
 * **[transformers](https://github.com/huggingface/transformers)** library needs to be installed to use all the awesome code from Hugging Face. To get the latest version I will install it straight from GitHub.
 
-* **[ml_things](https://github.com/gmihaila/ml_things)** library used for various machine learning related tasks. I created this library to reduce the amount of code I need to write for each machine learning project. Give it a try!
+* **[ml_things](https://github.com/tsilva/ml_things)** library used for various machine learning related tasks. I created this library to reduce the amount of code I need to write for each machine learning project. Give it a try!
 
 **Code Cell:**
 ```shell
 # Install transformers library.
 !pip install -q git+https://github.com/huggingface/transformers.git
 # Install helper functions.
-!pip install -q git+https://github.com/gmihaila/ml_things.git
+!pip install -q git+https://github.com/tsilva/ml_things.git
 ```
 **Output:**
 ```shell
@@ -204,7 +204,7 @@ If you made it this far Congrats :confetti_ball: and Thank you :pray: for your i
 Other details.
 
 If you see something wrong please let me know by opening an 
-**[issue on my ml_things](https://github.com/gmihaila/ml_things/issues/new/choose)** GitHub repository! 
+**[issue on my ml_things](https://github.com/tsilva/ml_things/issues/new/choose)** GitHub repository! 
 
 A lot of tutorials out there are mostly a one-time thing and are not being maintained. I plan on keeping my 
 tutorials up to date as much as I can.
@@ -213,15 +213,15 @@ tutorials up to date as much as I can.
 
 ## **Contact :fishing_pole_and_fish:**
 
-:cat: GitHub: [gmihaila](https://github.com/gmihaila){:target="_blank"}
+:cat: GitHub: [tsilva](https://github.com/tsilva){:target="_blank"}
 
-:earth_americas: Website: [gmihaila.github.io](https://gmihaila.github.io)
+:earth_americas: Website: [tsilva.github.io](https://tsilva.github.io)
 
-:necktie: LinkedIn: [mihailageorge](https://www.linkedin.com/in/mihailageorge)
+:necktie: LinkedIn: [silvaThiago](https://www.linkedin.com/in/silvaThiago)
 
-:mailbox_with_mail: Email: [georgemihaila@my.unt.edu.com](mailto:georgemihaila@my.unt.edu.com?subject=GitHub%20Website)
+:mailbox_with_mail: Email: [Thiagosilva@my.unt.edu.com](mailto:Thiagosilva@my.unt.edu.com?subject=GitHub%20Website)
 
-:busts_in_silhouette: Schedule meeting: [calendly.com/georgemihaila](https://calendly.com/georgemihaila)
+:busts_in_silhouette: Schedule meeting: [calendly.com/Thiagosilva](https://calendly.com/Thiagosilva)
 
 <br>
 
@@ -230,7 +230,7 @@ tutorials up to date as much as I can.
 <br>
 
 
-**Find out more [About Me](https://gist.github.com/gmihaila/b8f5bdd93e577060d17048fd6a24b39d).**
+**Find out more [About Me](https://gist.github.com/tsilva/b8f5bdd93e577060d17048fd6a24b39d).**
 
 
 <br>

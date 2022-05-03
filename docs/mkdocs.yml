@@ -1,12 +1,12 @@
 # Set up navigation: https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
-site_name: George Mihaila
-site_url: https://github.com/gmihaila/gmihaila.github.io
+site_name: Thiago Silva
+site_url: https://github.com/tsilva/tsilva.github.io
 repo_name: 'Machine Learning Things'
-repo_url: https://github.com/gmihaila/machine_learning_things
+repo_url: https://github.com/tsilva/machine_learning_things
 edit_uri: tree/master/docs/src/markdown
-site_description: George's Website along with a Collection of Useful Snippets for Python Machine Learning
+site_description: Thiago's Website along with a Collection of Useful Snippets for Python Machine Learning
 copyright: |
-  Copyright &copy; 2015 - 2020 <a href="https://github.com/gmihaila"  target="_blank" rel="noopener">George Mihaila</a>
+  Copyright &copy; 2015 - 2020 <a href="https://github.com/tsilva"  target="_blank" rel="noopener">Thiago Silva</a>
 
 docs_dir: markdown
 
@@ -129,14 +129,14 @@ extra:
     manifest: manifest.webmanifest
     social:
     - icon: fontawesome/brands/github
-      link: https://github.com/gmihaila
-      name: gmihaila
+      link: https://github.com/tsilva
+      name: tsilva
     - icon: fontawesome/brands/medium
-      link: https://gmihaila.medium.com/
-      name: gmihaila
+      link: https://tsilva.medium.com/
+      name: tsilva
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/mihailageorge
-      name: mihailageorge
+      link: https://www.linkedin.com/in/silvaThiago
+      name: silvaThiago
 
 plugins:
     - search

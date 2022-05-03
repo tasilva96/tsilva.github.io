@@ -1,6 +1,6 @@
-# George's Documentation Website
+# Thiago's Documentation Website
 
-## [https://gmihaila.github.io](https://gmihaila.github.io)
+## [https://tsilva.github.io](https://tsilva.github.io)
 
 ## Purpose
 
