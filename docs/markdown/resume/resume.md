@@ -1,4 +1,4 @@
-# **:newspaper: Resume [ `pdf` ](Thiago_silva_Resume.pdf)**
+# **:newspaper: Resume [ `pdf` ](Thiago_Silva_Resume.pdf)**
 
 
 
