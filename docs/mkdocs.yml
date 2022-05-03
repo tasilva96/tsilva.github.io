@@ -1,10 +1,10 @@
 # Set up navigation: https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
 site_name: Thiago Silva
-site_url: https://tasilva96.github.io/tsilva.github.io
+site_url: https://github.com/tasilva96/tsilva.github.io
 edit_uri: tree/master/docs/src/markdown
 site_description: Thiago's Website along with a Collection of Useful Snippets for Python Machine Learning
 copyright: |
-  Copyright &copy; 2015 - 2022 <a href="https://github.com/tsilva96"  target="_blank" rel="noopener">Thiago Silva</a>
+  Copyright &copy; 2015 - 2022 <a href="https://github.com/tasilva96"  target="_blank" rel="noopener">Thiago Silva</a>
 
 docs_dir: markdown
 
