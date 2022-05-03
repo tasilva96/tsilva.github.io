@@ -1,8 +1,6 @@
 # Set up navigation: https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
 site_name: Thiago Silva
-site_url: https://github.com/tsilva96/tsilva.github.io
-repo_name: 'Machine Learning Things'
-repo_url: https://github.com/tsilva96/machine_learning_things
+site_url: https://tasilva96.github.io/tsilva.github.io
 edit_uri: tree/master/docs/src/markdown
 site_description: Thiago's Website along with a Collection of Useful Snippets for Python Machine Learning
 copyright: |
